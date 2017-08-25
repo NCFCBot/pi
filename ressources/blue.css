@@ -734,11 +734,11 @@
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #E15 !important;
+	color: #ab48c7 !important;
 }
 #user-lists .group.manager {
-	color: #E15;
-	background: linear-gradient(to right, hsla(0,100%,20%,0.5), hsla(0,100%,30%,0.5)) !important;
+	color: #ab48c7;
+	background: linear-gradient(to right, hsla(287, 53%, 53%, 0.5), hsla(287, 53%, 53%, 0.5)) !important;
 }/*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
 	background: url(https://raw.githubusercontent.com/WiBla/Script/master/images/chat/rank_bouncer.png);
@@ -747,11 +747,11 @@
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #F45 !important;
+	color: #5DB4FF !important;
 }
 #user-lists .group.bouncer {
-	color: #F45;
-	background: linear-gradient(to right, hsla(10,100%,30%,0.5), hsla(10,100%,40%,0.5)) !important;
+	color: #5DB4FF;
+	background: linear-gradient(to right, hsla(208, 100%, 68%,0.5), hsla(208, 100%, 68%,0.5)) !important;
 }
 /*#####[DJ]#####*/
 .icon-chat-dj {
@@ -759,13 +759,13 @@
 	background-position: 0 0 !important;
 }
 #user-lists .group.dj {
-	color: #F95;
-	background: linear-gradient(to right, hsla(20,100%,30%,0.5), hsla(30,100%,40%,0.5)) !important;
+	color: #F7A452;
+	background: linear-gradient(to right, hsla(30, 91%, 65%,0.5), hsla(30, 91%, 65%,0.5)) !important;
 }
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
 #dialog-user-role .role-menu .menu ul .dj span {
-	color: #F95 !important;
+	color: #F7A452 !important;
 }
 /*#####[SUBS]#####*/
 .icon-chat-subscriber, #user-rollover .meta.subscriber .status i {
