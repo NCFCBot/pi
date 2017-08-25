@@ -910,9 +910,8 @@
 #chat .cm.emote i {
 	display: inline !important;
 }
-#chat .emote .text {
-    color: rgba(125, 96, 206, 1) !important;
-    font-weight: bold !important
+#chat .cm.emote .text {
+	font-style: normal;
 }
 /*--[RCS]--*/
 #woot-rs, #grab-rs, #meh-rs {
