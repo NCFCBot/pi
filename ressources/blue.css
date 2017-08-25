@@ -724,7 +724,7 @@
 }
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
-	color: #58f !important;
+	color: #db182e !important;
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
