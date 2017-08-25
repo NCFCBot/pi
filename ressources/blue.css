@@ -714,7 +714,7 @@
 }
 #user-lists .group.host {
 	color: #db182e;
-	background: linear-gradient(to right, hsla(210,100%,30%,0.5), hsla(210,100%,40%,0.5)) !important;
+	background: linear-gradient(to right, hsla(360,100%,30%,0.5), hsla(360,100%,40%,0.5)) !important;
 	top: 1px;
 }
 /*#####[CO-HOSTS]#####*/
