@@ -958,9 +958,6 @@
 	background: linear-gradient(hsl(210,100%,40%), hsl(220,10%,20%));
 }
 #app-menu .list .item {
-	box-shadow: none;
-}
-#app-menu .list .item {
 	box-shadow: inset 0 0 7px 0px hsla(0,0%,100%,0.5);
 }
 #app-menu .list .item:hover {
