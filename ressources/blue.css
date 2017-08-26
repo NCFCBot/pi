@@ -948,6 +948,12 @@
 #app-menu .button i {
 	background: url(http://i.imgur.com/za7ITid.png) !important;
 }
+#app-menu .list a {
+    color: #ffffff;
+}
+#app-menu .list {
+    color: #ffffff;
+}	
 #app-menu .list {
 	background: linear-gradient(hsl(220,10%,10%), hsl(220,10%,20%));
 }
