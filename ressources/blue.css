@@ -950,12 +950,10 @@
 }
 #app-menu .list a {
     color: #ffffff;
-}
-#app-menu .list {
-    color: #ffffff;
 }	
 #app-menu .list {
-	background: linear-gradient(hsl(220,10%,10%), hsl(220,10%,20%));
+	background: linear-gradient(hsl(210,100%,40%), hsl(220,10%,20%));
+	color: #ffffff;
 }
 #app-menu .list .item {
 	box-shadow: none;
