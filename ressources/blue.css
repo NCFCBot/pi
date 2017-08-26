@@ -949,11 +949,16 @@
 	background: url(http://i.imgur.com/za7ITid.png) !important;
 }
 #app-menu .list a {
-    color: #ffffff !important;
-}	
+    color: #ffffff;
+}
+#app-menu .list {
+    color: #ffffff;
+}
 #app-menu .list {
 	background: linear-gradient(hsl(210,100%,40%), hsl(220,10%,20%));
-	color: #ffffff !important;
+}
+.icon-community-white {
+    background-position: -140px -210px;
 }
 #app-menu .list .item {
 	box-shadow: none;
