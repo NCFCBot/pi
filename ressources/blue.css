@@ -957,9 +957,6 @@
 #app-menu .list {
 	background: linear-gradient(hsl(210,100%,40%), hsl(220,10%,20%));
 }
-.icon-community-white {
-    background-position: -140px -210px;
-}
 #app-menu .list .item {
 	box-shadow: none;
 }
