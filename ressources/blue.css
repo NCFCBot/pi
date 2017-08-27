@@ -1028,13 +1028,17 @@
 /* Badges */
 
 /* Iwasawa */
-#chat-messages > div.cm.message[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
-    background-image: url("http://i.imgur.com/IAIbpf2.png") !important;
+#user-rollover.id-4718010 .badge-box > i.bdg,
+.id-4718010 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/IAIbpf2.png");
 }
 
 /* BotX */
-#chat-messages > div.cm.message[data-cid^="13495048"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="13495048"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="13495048"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="13495048"] > .badge-box  > .bdg{
-    background-image: url("http://i.imgur.com/8KeRnIn.png") !important;
+#user-rollover.id-13495048 .badge-box > i.bdg,
+.id-13495048 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/8KeRnIn.png");
 }
 
 #user-rollover.id-13495048 .username,
@@ -1042,39 +1046,54 @@
 {
 	animation: rainbow 10s infinite;
 }
+
 /* Kirito-Kun Nightcore */
-#chat-messages > div.cm.message[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg{
-	background-image: url("http://i.imgur.com/npyPVCS.png") !important;
+#user-rollover.id-5012291 .badge-box > i.bdg,
+.id-5012291 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/npyPVCS.png");
 }
 
 /* ShadoWolf NC */
-#chat-messages > div.cm.message[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5857599"] > .badge-box  > .bdg{
-	background-image: url("http://i.imgur.com/u1ZMqUR.jpg") !important;
+#user-rollover.id-5857599 .badge-box > i.bdg,
+.id-5857599 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/QKdVvjR.png");
 }
 
 /* NewSoundNetwork */
-#chat-messages > div.cm.message[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="3127225"] > .badge-box  > .bdg{
-	background-image: url("https://a.uguu.se/Ms3waeyOiiLN_NewSoundNetwork.gif") !important;
+#user-rollover.id-3127225 .badge-box > i.bdg,
+.id-3127225 > .badge-box > i.bdg
+{
+    background-image:    url("https://a.uguu.se/Ms3waeyOiiLN_NewSoundNetwork.gif");
 }
 
 /* Clannad */
-#chat-messages > div.cm.message[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg{
-	background-image: url("http://i.imgur.com/Dg6MZ2e.png") !important;
+#user-rollover.id-4701536 .badge-box > i.bdg,
+.id-4701536 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/Dg6MZ2e.png");
 }
 
 /* VonFuzzy */
-#chat-messages > div.cm.message[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="6043453"] > .badge-box  > .bdg{
-	background-image: url("https://a.uguu.se/dIV27lqHIe8R_VonFuzzy.gif") !important;
+#user-rollover.id-6043453 .badge-box > i.bdg,
+.id-6043453 > .badge-box > i.bdg
+{
+    background-image:    url("https://a.uguu.se/dIV27lqHIe8R_VonFuzzy.gif");
 }
 
 /* iToastbrot */
-#chat-messages > div.cm.message[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5887173"] > .badge-box  > .bdg{
-	background-image: url("http://i.imgur.com/2LfJWKk.jpg") !important;
+#user-rollover.id-4878561 .badge-box > i.bdg,
+.id-4878561 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/2LfJWKk.jpg");
 }
 
 /* mini500 */
-#chat-messages > div.cm.message[data-cid^="4878561"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4878561"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4878561"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4878561"] > .badge-box  > .bdg{
-	background-image: url("http://i.imgur.com/CIWzqAh.png") !important;
+#user-rollover.id-4878561 .badge-box > i.bdg,
+.id-4878561 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/CIWzqAh.png");
 }
 
 @keyframes rainbow {
