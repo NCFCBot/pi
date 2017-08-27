@@ -1031,8 +1031,14 @@
 #chat-messages > div.cm.message[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
     background-image: url("http://i.imgur.com/IAIbpf2.png") !important;
 }
-#user-rollover.id-4718010 .username,
-#chat [data-cid^="4718010-"] span.un.clickable
+
+/* BotX */
+#chat-messages > div.cm.message[data-cid^="13495048"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="13495048"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
+    background-image: url("http://i.imgur.com/28Ex3Vk.png") !important;
+}
+
+#user-rollover.id-13495048 .username,
+#chat [data-cid^="13495048-"] span.un.clickable
 {
 	animation: rainbow 10s infinite;
 }
@@ -1066,6 +1072,10 @@
 	background-image: url("http://i.imgur.com/2LfJWKk.jpg") !important;
 }
 
+/* mini500 */
+#chat-messages > div.cm.message[data-cid^="4878561"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4878561"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5887173"] > .badge-box  > .bdg{
+	background-image: url("http://i.imgur.com/CIWzqAh.png") !important;
+}
 
 @keyframes rainbow {
 	0% {color: #ff0000;}
