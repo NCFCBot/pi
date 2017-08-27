@@ -1067,12 +1067,6 @@
 }
 
 
-#user-rollover.id-4718010 .username:hover,
-#chat [data-cid^="4718010-"] span.un.clickable:hover
-{
-	animation: rainbow 6s infinite;
-}
-
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
