@@ -1031,3 +1031,58 @@
 #chat-messages > div.cm.message[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
     background-image: url("http://i.imgur.com/IAIbpf2.png") !important;
 }
+#user-rollover.id-4718010 .username:hover,
+#chat [data-cid^="4718010-"] span.un.clickable:hover
+{
+	animation: rainbow 6s infinite;
+}
+/* Kirito-Kun Nightcore */
+#chat-messages > div.cm.message[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg{
+	background-image: url("http://i.imgur.com/npyPVCS.png") !important;
+}
+
+/* ShadoWolf NC */
+#chat-messages > div.cm.message[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5857599"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5857599"] > .badge-box  > .bdg{
+	background-image: url("http://i.imgur.com/u1ZMqUR.jpg") !important;
+}
+
+/* NewSoundNetwork */
+#chat-messages > div.cm.message[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="3127225"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="3127225"] > .badge-box  > .bdg{
+	background-image: url("https://a.uguu.se/Ms3waeyOiiLN_NewSoundNetwork.gif") !important;
+}
+
+/* Clannad */
+#chat-messages > div.cm.message[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg{
+	background-image: url("http://i.imgur.com/Dg6MZ2e.png") !important;
+}
+
+/* VonFuzzy */
+#chat-messages > div.cm.message[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="6043453"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="6043453"] > .badge-box  > .bdg{
+	background-image: url("https://a.uguu.se/dIV27lqHIe8R_VonFuzzy.gif") !important;
+}
+
+/* iToastbrot */
+#chat-messages > div.cm.message[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5887173"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5887173"] > .badge-box  > .bdg{
+	background-image: url("http://i.imgur.com/2LfJWKk.jpg") !important;
+}
+
+
+#user-rollover.id-4718010 .username:hover,
+#chat [data-cid^="4718010-"] span.un.clickable:hover
+{
+	animation: rainbow 6s infinite;
+}
+
+@keyframes rainbow {
+	0% {color: #ff0000;}
+	10% {color: #ff8000;}
+	20% {color: #ffff00;}
+	30% {color: #80ff00;}
+	40% {color: #00ff00;}
+	50% {color: #00ff80;}
+	60% {color: #00ffff;}
+	70% {color: #0080ff;}
+	80% {color: #0000ff;}
+	90% {color: #8000ff;}
+	100% {color: #ff0080;}
+}
