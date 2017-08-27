@@ -1031,10 +1031,10 @@
 #chat-messages > div.cm.message[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
     background-image: url("http://i.imgur.com/IAIbpf2.png") !important;
 }
-#user-rollover.id-4718010 .username:hover,
-#chat [data-cid^="4718010-"] span.un.clickable:hover
+#user-rollover.id-4718010 .username,
+#chat [data-cid^="4718010-"] span.un.clickable
 {
-	animation: rainbow 6s infinite;
+	animation: rainbow 10s infinite;
 }
 /* Kirito-Kun Nightcore */
 #chat-messages > div.cm.message[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="5012291"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="5012291"] > .badge-box  > .bdg{
