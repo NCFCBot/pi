@@ -12,7 +12,7 @@
 	display: inline !important;
 }
 .slider .line, #user-settings .slider .bar {
-	background: linear-gradient(to right, hsl(120,100%,50%), hsl(0,100%,50%)) !important;
+	background: linear-gradient(to right, hsl(210,100%,50%), hsl(269, 100%, 50%)) !important;
 }
 #user-settings .slider .bar {
 	width: calc(100% - 1px) !important;
