@@ -1024,3 +1024,10 @@
 #user-inventory .history .row:nth-last-child(1) .item {border-radius: 0 0 0 20px;}
 #user-inventory .history .row .col {box-shadow: -1px 0 0 0 hsl(210,50%,20%) !important;}
 #user-inventory .history .jspPane .row {border-color: hsl(210,50%,20%); !important} 
+
+/* Badges */
+
+/* Iwasawa */
+#chat-messages > div.cm.message[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4718010"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4718010"] > .badge-box  > .bdg{
+    background-image: url("http://i.imgur.com/IAIbpf2.png") !important;
+}
