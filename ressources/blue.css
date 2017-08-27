@@ -1096,6 +1096,13 @@
     background-image:    url("http://i.imgur.com/CIWzqAh.png");
 }
 
+/* TheMadCam */
+#user-rollover.id-5371734 .badge-box > i.bdg,
+.id-5371734 > .badge-box > i.bdg
+{
+    background-image:    url("https://a.uguu.se/optKhNmcEWI0_Cameron.gif");
+}
+
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
