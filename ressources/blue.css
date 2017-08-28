@@ -1065,7 +1065,7 @@
 #user-rollover.id-3127225 .badge-box > i.bdg,
 .id-3127225 > .badge-box > i.bdg
 {
-    background-image:    url("https://a.uguu.se/Ms3waeyOiiLN_NewSoundNetwork.gif");
+    background-image:    url("http://i.imgur.com/p0rv7OB.gif");
 }
 
 /* Clannad */
@@ -1079,14 +1079,14 @@
 #user-rollover.id-6043453 .badge-box > i.bdg,
 .id-6043453 > .badge-box > i.bdg
 {
-    background-image:    url("https://a.uguu.se/dIV27lqHIe8R_VonFuzzy.gif");
+    background-image:    url("http://i.imgur.com/CC1CeXW.gif");
 }
 
 /* iToastbrot */
 #user-rollover.id-4878561 .badge-box > i.bdg,
 .id-4878561 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/2LfJWKk.jpg");
+    background-image:    url("http://i.imgur.com/wJdzfn5.jpg") !important;
 }
 
 /* mini500 */
@@ -1100,21 +1100,21 @@
 #user-rollover.id-5371734 .badge-box > i.bdg,
 .id-5371734 > .badge-box > i.bdg
 {
-    background-image:    url("https://a.uguu.se/optKhNmcEWI0_Cameron.gif");
+    background-image:    url("http://i.imgur.com/PDtPIlv.gif");
 }
 
 /* Izzie */
 #user-rollover.id-6464162 .badge-box > i.bdg,
 .id-6464162 > .badge-box > i.bdg
 {
-    background-image:    url("https://a.uguu.se/RUIL7kgUhyCe_Isebella.gif");
+    background-image:    url("http://i.imgur.com/FTzOHRn.gif");
 }
 
 /* JustJustMe */
 #user-rollover.id-16498004 .badge-box > i.bdg,
 .id-16498004 > .badge-box > i.bdg
 {
-    background-image:    url("http://i.imgur.com/8KeRnIn.png");
+    background-image:    url("http://i.imgur.com/korXddY.jpg");
 }
 
 /* Bruine_Beer */
@@ -1136,6 +1136,13 @@
 .id-17385879 > .badge-box > i.bdg
 {
     background-image:    url("http://i.imgur.com/qMYtUHq.png");
+}
+
+/* MikyMike */
+#user-rollover.id-5981628 .badge-box > i.bdg,
+.id-5981628 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/YfoNjAf.png");
 }
 
 @keyframes rainbow {
