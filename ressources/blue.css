@@ -1131,6 +1131,13 @@
     background-image:    url("http://i.imgur.com/OX24Vmb.png");
 }
 
+/* Mr. Bike */
+#user-rollover.id-17385879 .badge-box > i.bdg,
+.id-17385879 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/qMYtUHq.png");
+}
+
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
