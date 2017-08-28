@@ -1124,6 +1124,13 @@
     background-image:    url("https://i.imgur.com/RmKdCNL.jpg");
 }
 
+/* Mythy */
+#user-rollover.id-5042697 .badge-box > i.bdg,
+.id-5042697 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/OX24Vmb.png");
+}
+
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
