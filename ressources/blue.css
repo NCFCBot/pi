@@ -1027,6 +1027,8 @@
 
 /* Badges */
 
+/* Staff */
+
 /* Iwasawa */
 #user-rollover.id-4718010 .badge-box > i.bdg,
 .id-4718010 > .badge-box > i.bdg
@@ -1151,6 +1153,23 @@
 {
     background-image:    url("http://i.imgur.com/5A1pOJ2.gif");
 }
+
+/* Users */
+
+/* Zibride */
+#user-rollover.id-1357053 .badge-box > i.bdg,
+.id-1357053 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/VjGWvJz.png");
+}
+
+/* Benny >_< */
+#user-rollover.id-4554889 .badge-box > i.bdg,
+.id-4554889 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/ZuZyMsn.png");
+}
+
 
 @keyframes rainbow {
 	0% {color: #ff0000;}
