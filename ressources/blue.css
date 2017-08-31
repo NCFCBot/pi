@@ -1170,6 +1170,13 @@
     background-image:    url("http://i.imgur.com/ZuZyMsn.png");
 }
 
+/* Narsus */
+#user-rollover.id-28441609 .badge-box > i.bdg,
+.id-28441609 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/rlWXkzx.jpg");
+}
+
 
 @keyframes rainbow {
 	0% {color: #ff0000;}
