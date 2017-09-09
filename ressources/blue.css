@@ -1184,6 +1184,20 @@
     background-image:    url("http://i.imgur.com/lB7f583.jpg");
 }
 
+/* Minibot */
+#user-rollover.id-5752899 .badge-box > i.bdg,
+.id-5752899 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/CIWzqAh.png");
+}
+
+/* Epic_Fantasy */
+#user-rollover.id-12758208 .badge-box > i.bdg,
+.id-12758208 > .badge-box > i.bdg
+{
+    background-image:    url("https://i.imgur.com/ZSP5F6h.png");
+}
+
 
 @keyframes rainbow {
 	0% {color: #ff0000;}
