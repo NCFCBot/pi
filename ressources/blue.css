@@ -1112,13 +1112,6 @@
     background-image:    url("http://i.imgur.com/FTzOHRn.gif");
 }
 
-/* JustJustMe */
-#user-rollover.id-16498004 .badge-box > i.bdg,
-.id-16498004 > .badge-box > i.bdg
-{
-    background-image:    url("http://i.imgur.com/korXddY.jpg");
-}
-
 /* Bruine_Beer */
 #user-rollover.id-5255539 .badge-box > i.bdg,
 .id-5255539 > .badge-box > i.bdg
@@ -1161,6 +1154,13 @@
     background-image:    url("https://i.imgur.com/MYlN6rG.jpg");
 }
 
+/* Joe */
+#user-rollover.id-7135789 .badge-box > i.bdg,
+.id-7135789 > .badge-box > i.bdg
+{
+    background-image:    url("https://i.imgur.com/veS3KQD.gif");
+}
+
 /* Users */
 
 /* Zibride */
@@ -1196,6 +1196,13 @@
 .id-12758208 > .badge-box > i.bdg
 {
     background-image:    url("https://i.imgur.com/ZSP5F6h.png");
+}
+
+/* JustJustMe */
+#user-rollover.id-16498004 .badge-box > i.bdg,
+.id-16498004 > .badge-box > i.bdg
+{
+    background-image:    url("http://i.imgur.com/korXddY.jpg");
 }
 
 
