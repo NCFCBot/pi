@@ -1112,6 +1112,12 @@
     background-image:    url("http://i.imgur.com/FTzOHRn.gif");
 }
 
+#user-rollover.id-6464162 > .info > .role span:after
+{
+    visibility: visible;
+    content:'NOOB!!';
+} 
+
 /* Bruine_Beer */
 #user-rollover.id-5255539 .badge-box > i.bdg,
 .id-5255539 > .badge-box > i.bdg
