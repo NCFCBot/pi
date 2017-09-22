@@ -1202,7 +1202,7 @@
 #user-rollover.id-12758208 .badge-box > i.bdg,
 .id-12758208 > .badge-box > i.bdg
 {
-    background-image:    url("https://i.imgur.com/ZSP5F6h.png");
+    background-image:    url("https://i.imgur.com/Ijwpeq2.gif");
 }
 
 /* JustJustMe */
@@ -1224,6 +1224,13 @@
 .id-4712909 > .badge-box > i.bdg
 {
     background-image:    url("https://i.imgur.com/7PIF7D4.jpg");
+}
+
+/* Kiwi-Chan */
+#user-rollover.id-21057740 .badge-box > i.bdg,
+.id-21057740 > .badge-box > i.bdg
+{
+    background-image:    url("https://i.imgur.com/n5BSLwO.png");
 }
 
 @keyframes rainbow {
