@@ -1077,6 +1077,27 @@
     background-image:    url("http://i.imgur.com/Dg6MZ2e.png");
 }
 
+#user-rollover.id-4701536 > .info > .role span {
+	text-indent: -9999px;
+	line-height:0;
+}
+
+#user-rollover.id-4701536 > .info > .role span:after {
+	text-indent:0;
+	content:'Host';
+	display:block;
+	line-height: initial;
+        color: #db182e;
+}
+
+#user-rollover.id-4701536 > .info > .role span:hover:after {
+	text-indent:0;
+	content:'Brand Ambassador';
+	display:block;
+	line-height: initial;
+        color: #89be6c;
+}
+
 /* VonFuzzy */
 #user-rollover.id-6043453 .badge-box > i.bdg,
 .id-6043453 > .badge-box > i.bdg
@@ -1112,6 +1133,19 @@
     background-image:    url("http://i.imgur.com/FTzOHRn.gif");
 }
 
+#user-rollover.id-6464162 > .info > .role span:hover {
+	text-indent: -9999px;
+	line-height:0;
+}
+
+#user-rollover.id-6464162 > .info > .role span:hover:after {
+	text-indent:0;
+	content:'♥ Bot Developer ♥';
+	display:block;
+	line-height: initial;
+        color: #38ea41;
+}
+
 /* Bruine_Beer */
 #user-rollover.id-5255539 .badge-box > i.bdg,
 .id-5255539 > .badge-box > i.bdg
@@ -1140,11 +1174,32 @@
     background-image:    url("http://i.imgur.com/YfoNjAf.png");
 }
 
-/* WarriorCatsRox */
+/* Kayla <3 */
 #user-rollover.id-6432868 .badge-box > i.bdg,
 .id-6432868 > .badge-box > i.bdg
 {
     background-image:    url("http://i.imgur.com/5A1pOJ2.gif");
+}
+
+#user-rollover.id-6432868 > .info > .role span {
+	text-indent: -9999px;
+	line-height:0;
+}
+
+#user-rollover.id-6432868  > .info > .role span:after {
+	text-indent:0;
+	content:'Co-Host';
+	display:block;
+	line-height: initial;
+        color: #db182e;
+}
+
+#user-rollover.id-6432868 > .info > .role span:hover:after {
+	text-indent:0;
+	content:'Brand Ambassador';
+	display:block;
+	line-height: initial;
+        color: #89be6c;
 }
 
 /* sakeyrad */
