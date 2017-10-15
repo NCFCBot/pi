@@ -1090,13 +1090,15 @@
         color: #db182e;
 }
 
-#user-rollover.id-4701536 > .info > .role span:hover:after {
+#user-rollover.id-4701536 > .info > .role:hover span:after {
 	text-indent:0;
 	content:'Brand Ambassador';
 	display:block;
 	line-height: initial;
         color: #89be6c;
 }
+
+#user-rollover.id-4701536 > .info > .role:hover .icon{ background: url(http://i.imgur.com/IO84f0g.png) !important; }
 
 /* VonFuzzy */
 #user-rollover.id-6043453 .badge-box > i.bdg,
@@ -1138,7 +1140,7 @@
 	line-height:0;
 }
 
-#user-rollover.id-6464162 > .info > .role span:hover:after {
+#user-rollover.id-6464162 > .info > .role:hover span:after {
 	text-indent:0;
 	content:'♥ Bot Developer ♥';
 	display:block;
@@ -1194,13 +1196,15 @@
         color: #db182e;
 }
 
-#user-rollover.id-6432868 > .info > .role span:hover:after {
+#user-rollover.id-6432868 > .info > .role:hover span:after {
 	text-indent:0;
 	content:'Brand Ambassador';
 	display:block;
 	line-height: initial;
         color: #89be6c;
 }
+
+#user-rollover.id-6432868 > .info > .role:hover .icon{ background: url(http://i.imgur.com/IO84f0g.png) !important; }
 
 /* sakeyrad */
 #user-rollover.id-6688363 .badge-box > i.bdg,
