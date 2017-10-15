@@ -1317,6 +1317,31 @@
     background-image:    url("https://i.imgur.com/rWggEx6.png");
 }
 
+#user-rollover.id-3586628 > .info > .role span {
+	text-indent: -9999px;
+	line-height:0;
+}
+
+#user-rollover.id-3586628  > .info > .role span:after {
+	text-indent:0;
+	content:'Resident DJ';
+	display:block;
+	line-height: initial;
+        color: #F7A452;
+}
+
+#user-rollover.id-3586628 > .info > .role:hover span:after {
+	text-indent:0;
+	content:'Promoter';
+	display:block;
+	line-height: initial;
+        color: #1abc9c;
+}
+
+#user-rollover.id-3586628 > .info > .role:hover .icon { 
+	background: url(http://i.imgur.com/IO84f0g.png) !important; 
+}
+
 /* pickleruler */
 #user-rollover.id-21295532 .badge-box > i.bdg,
 .id-21295532 > .badge-box > i.bdg
