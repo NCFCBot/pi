@@ -1353,6 +1353,14 @@
         color: #1abc9c;
 }
 
+#user-rollover.id-21226293 > .info > .role .icon { 
+	background: url(http://i.imgur.com/HIUTGdj.png) !important; 
+}
+
+#user-rollover.id-21226293 > .info > .role:hover .icon { 
+	background: url(https://i.imgur.com/U2nXP64.png) !important; 
+}
+
 /* PyroDennis */
 #user-rollover.id-5603550 .badge-box > i.bdg,
 .id-5603550 > .badge-box > i.bdg
@@ -1390,8 +1398,12 @@
         color: #1abc9c;
 }
 
+#user-rollover.id-3586628 > .info > .role .icon { 
+	background: url(http://i.imgur.com/HIUTGdj.png) !important; 
+}
+
 #user-rollover.id-3586628 > .info > .role:hover .icon { 
-	background: url(https://i.imgur.com/e1R4d8V.png) !important; 
+	background: url(https://i.imgur.com/U2nXP64.png) !important; 
 }
 
 /* pickleruler */
