@@ -1332,35 +1332,6 @@
     border-radius: 6px;
 }
 
-#user-rollover.id-21226293 > .info > .role span {
-	text-indent: -9999px;
-	line-height:0;
-}
-
-#user-rollover.id-21226293  > .info > .role span:after {
-	text-indent:0;
-	content:'Resident DJ';
-	display:block;
-	line-height: initial;
-        color: #F7A452;
-}
-
-#user-rollover.id-21226293 > .info > .role:hover span:after {
-	text-indent:0;
-	content:'Promoter';
-	display:block;
-	line-height: initial;
-        color: #1abc9c;
-}
-
-#user-rollover.id-21226293 > .info > .role .icon { 
-	background: url(http://i.imgur.com/HIUTGdj.png) !important; 
-}
-
-#user-rollover.id-21226293 > .info > .role:hover .icon { 
-	background: url(https://i.imgur.com/LZgFvsZ.png) !important; 
-}
-
 /* PyroDennis */
 #user-rollover.id-5603550 .badge-box > i.bdg,
 .id-5603550 > .badge-box > i.bdg
