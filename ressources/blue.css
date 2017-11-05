@@ -1104,6 +1104,10 @@
         color: #89be6c;
 }
 
+#user-rollover.id-4701536 > .info > .role .icon { 
+	background: url(http://i.imgur.com/zIAEqAk.png) !important; 
+}
+
 #user-rollover.id-4701536 > .info > .role:hover .icon { 
 	background: url(http://i.imgur.com/IO84f0g.png) !important; 
 }
@@ -1220,6 +1224,10 @@
 	display:block;
 	line-height: initial;
         color: #89be6c;
+}
+
+#user-rollover.id-6432868 > .info > .role .icon { 
+	background: url(http://i.imgur.com/zIAEqAk.png) !important; 
 }
 
 #user-rollover.id-6432868 > .info > .role:hover .icon { 
