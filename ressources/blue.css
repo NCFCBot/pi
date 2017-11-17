@@ -1425,6 +1425,35 @@
     border-radius: 6px;
 }
 
+/* WindWalk */
+#user-rollover.id-4881577 > .info > .role span {
+    text-indent: -9999px;
+    line-height:0;
+}
+#user-rollover.id-4881577 > .info > .role span:after {
+    text-indent:0;
+    content:'Resident DJ';
+    display:block;
+    line-height: initial;
+        color: #F7A452;
+}
+
+#user-rollover.id-4881577 > .info > .role:hover span:after {
+    text-indent:0;
+    content:'Site Moderator';
+    display:block;
+    line-height: initial;
+        color: #e74c3c;
+}
+
+#user-rollover.id-4881577 > .info > .role .icon { 
+    background: url(http://i.imgur.com/HIUTGdj.png) !important; 
+}
+
+#user-rollover.id-4881577 > .info > .role:hover .icon { 
+    background: url(https://i.imgur.com/I4xLq31.png) !important; 
+}
+
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
