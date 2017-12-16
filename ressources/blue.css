@@ -1332,11 +1332,11 @@
     border-radius: 6px;
 }
 
-/* patty-whacked */
+/* OrphanTears */
 #user-rollover.id-21226293 .badge-box > i.bdg,
 .id-21226293 > .badge-box > i.bdg
 {
-    background-image:    url("https://i.imgur.com/4fUaDOs.png");
+    background-image:    url("https://i.imgur.com/QAT8HRK.png");
     border-radius: 6px;
 }
 
@@ -1432,10 +1432,10 @@
 }
 #user-rollover.id-4881577 > .info > .role span:after {
     text-indent:0;
-    content:'Resident DJ';
+    content:'Bouncer';
     display:block;
     line-height: initial;
-        color: #F7A452;
+        color: #5DB4FF;
 }
 
 #user-rollover.id-4881577 > .info > .role:hover span:after {
@@ -1467,6 +1467,14 @@
 .id-32432017 > .badge-box > i.bdg
 {
     background-image:    url("https://i.imgur.com/WaIyxgE.gif");
+    border-radius: 6px;
+}
+
+/* OrphanTears */
+#user-rollover.id-5193440 .badge-box > i.bdg,
+.id-5193440 > .badge-box > i.bdg
+{
+    background-image:    url("https://i.imgur.com/oEIHXAk.gif");
     border-radius: 6px;
 }
 
