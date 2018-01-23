@@ -1288,6 +1288,35 @@ display: none;
     border-radius: 6px;
 }
 
+#user-rollover.id-4329684 > .info > .role span {
+	text-indent: -9999px;
+	line-height:0;
+}
+
+#user-rollover.id-4329684 > .info > .role span:after {
+    text-indent:0;
+    content:'Bouncer';
+    display:block;
+    line-height: initial;
+        color: #5DB4FF;
+}
+
+#user-rollover.id-4329684 > .info > .role:hover span:after {
+    text-indent:0;
+    content:'pLoT Member';
+    display:block;
+    line-height: initial;
+        color: #e67e22;
+}
+
+#user-rollover.id-4329684 > .info > .role .icon { 
+    background: url(https://i.imgur.com/wlHkm2L.png) !important; 
+}
+
+#user-rollover.id-4329684 > .info > .role:hover .icon { 
+    background: url(https://i.imgur.com/2yPN2cB.png) !important; 
+}
+
 /* Minibot */
 #user-rollover.id-5752899 .badge-box > i.bdg,
 .id-5752899 > .badge-box > i.bdg
