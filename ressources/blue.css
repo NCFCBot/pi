@@ -1095,7 +1095,7 @@ display: none;
 
 #user-rollover.id-4701536 > .info > .role span:after {
 	text-indent:0;
-	content:'Co-Host';
+	content:'Host';
 	display:block;
 	line-height: initial;
         color: #db182e;
