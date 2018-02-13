@@ -1425,12 +1425,12 @@ display: none;
 	line-height:0;
 }
 
-#user-rollover.id-3586628  > .info > .role span:after {
-	text-indent:0;
-	content:'Resident DJ';
-	display:block;
-	line-height: initial;
-        color: #F7A452;
+#user-rollover.id-3586628 > .info > .role span:after {
+    text-indent:0;
+    content:'Bouncer';
+    display:block;
+    line-height: initial;
+        color: #5DB4FF;
 }
 
 #user-rollover.id-3586628 > .info > .role:hover span:after {
@@ -1441,8 +1441,8 @@ display: none;
         color: #1abc9c;
 }
 
-#user-rollover.id-3586628 > .info > .role .icon { 
-	background: url(http://i.imgur.com/HIUTGdj.png) !important; 
+#user-rollover.id-4329684 > .info > .role .icon { 
+    	background: url(https://i.imgur.com/wlHkm2L.png) !important; 
 }
 
 #user-rollover.id-3586628 > .info > .role:hover .icon { 
